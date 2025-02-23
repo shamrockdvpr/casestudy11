@@ -43,13 +43,13 @@ video {float:right; margin:2em}
 
 #wrapper {max-width: 2048px;}
 
-#homehero{height:300px; background-size: 200% 100%; background-repeat:no-repeat; background-image: url(images/coast.jpg);}
+#homehero{height:300px; background-size: 200% 100%; background-repeat:no-repeat; background-image: url(coast.jpg);}
 
-#yurthero{height:300px; background-size: 200% 100%; background-repeat:no-repeat; background-image: url(images/yurt.jpg);}
+#yurthero{height:300px; background-size: 200% 100%; background-repeat:no-repeat; background-image: url(yurt.jpg);}
 
-#trailhero{height:300px; background-size: 200% 100%; background-repeat:no-repeat; background-image: url(images/trail.jpg);}
+#trailhero{height:300px; background-size: 200% 100%; background-repeat:no-repeat; background-image: url(trail.jpg);}
 
-#reshero{height:300px; background-size: 200% 100%; background-repeat:no-repeat; background-image: url(images/coast.jpg);}
+#reshero{height:300px; background-size: 200% 100%; background-repeat:no-repeat; background-image: url(coast.jpg);}
 
 @media (max-width : 600px) {
 	#mobile {display:inline}
